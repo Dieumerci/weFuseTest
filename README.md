@@ -3,7 +3,7 @@
 ## Steps to Start
 In the project directory, run:
 
-### npm instal
+### npm install
 This install all the dependencies required for our application
 
 ### npm start
