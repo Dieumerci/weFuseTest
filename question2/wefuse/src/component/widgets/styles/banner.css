@@ -1,0 +1,11 @@
+.jumbotron {
+    width:620px;
+    height: 300px;
+    margin:7px auto 50px;
+    background: #706F79;
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    -moz-border-radius: 40px;
+    -webkit-border-radius: 40px;
+    /* padding-left:190px; */
+}

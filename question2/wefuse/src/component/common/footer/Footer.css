@@ -1,0 +1,17 @@
+footer.page-footer{
+
+    color: #fff;
+    background:#B1194B;
+}
+
+footer.page-footer .footer-copyright{
+    color: black;
+    background:#B1194B;
+}
+
+.footCon {
+    margin-top: -21px;
+    background: #212121;
+    height: 220px;
+    
+}
